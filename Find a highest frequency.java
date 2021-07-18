@@ -23,6 +23,6 @@ public class Main{
                 modeNum = i;
             }
         }
-        System.out.println("ÃÖºó¼ö´Â:" + modeNum + "cnt:" + modeCnt);
+        System.out.println("Higest Frequency:" + modeNum + "cnt:" + modeCnt);
     }
 }
