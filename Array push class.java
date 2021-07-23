@@ -1,4 +1,4 @@
-class Array{
+v class Array{
     int []bqpa;
     int count;
 	
